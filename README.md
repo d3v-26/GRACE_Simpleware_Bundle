@@ -11,7 +11,7 @@ GRACE_SimplewareBundle/
 │── configs/
 │   └── metadata.json        # Model metadata
 │── scripts/
-    └── requirements.txt     # Dependencies
+│   └── requirements.txt     # Dependencies
 │   └── sip_inference.py     # Inference script
 │── README.md                # Setup instructions
 │── model.pth                # Trained model file
