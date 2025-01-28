@@ -4,6 +4,6 @@
     "description": "Brain image segmentation model using MONAI UENTR",
     "input_channels": 1,
     "output_channels": 1,
-    "model_file": "../models/model.pth"
+    "model_file": "../model.pth"
   }
   
