@@ -3,7 +3,7 @@
     "version": "1.0",
     "description": "Brain image segmentation model using MONAI UENTR",
     "input_channels": 1,
-    "output_channels": 1,
+    "output_channels": 12,
     "model_file": "../model.pth"
   }
   
